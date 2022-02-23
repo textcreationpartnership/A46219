@@ -1,0 +1,378 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pseudo-astrologos, or, The spurious prognosticator unmasked. Being a short examen of the the manifold errors and fallacies, falshoods and flatteries, published by Mr. W. Lilly in his Merlin 1659. Wherein his ignorance in astrology is explained and exploded; his scandalous girdings at the king of Denmark, duke of Brandenburgh, and the states of Holland, noted; his nefarious dealing with the late lord protector of England, and the king of Sweden, discovered; his impudent, arrogant and artless assertions, retorted and refuted. / By G.J. ...</title>
+            <author>Gadbury, John, 1627-1704.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46219</idno>
+            <idno type="STC">Wing J10</idno>
+            <idno type="STC">ESTC R28945</idno>
+            <idno type="EEBO-CITATION">10784877</idno>
+            <idno type="OCLC">ocm 10784877</idno>
+            <idno type="VID">45858</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46219)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45858)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1387:10 or 1793:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Pseudo-astrologos, or, The spurious prognosticator unmasked. Being a short examen of the the manifold errors and fallacies, falshoods and flatteries, published by Mr. W. Lilly in his Merlin 1659. Wherein his ignorance in astrology is explained and exploded; his scandalous girdings at the king of Denmark, duke of Brandenburgh, and the states of Holland, noted; his nefarious dealing with the late lord protector of England, and the king of Sweden, discovered; his impudent, arrogant and artless assertions, retorted and refuted. / By G.J. ...</title>
+                  <author>Gadbury, John, 1627-1704.</author>
+                  <author>Lilly, William, 1602-1681. Merlini Anglici ephemeris.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Printed in the year 1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>First word of title in Greek characters.</note>
+                  <note>Item at reel 1387:10 identified as Wing J10 (number cancelled).</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lilly, William, 1602-1681. --  Merlini Anglici ephemeris.</term>
+               <term>Astrology --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:45858:1"/>
+               <pb facs="tcp:45858:1" rendition="simple:additions"/>
+ΨΕΥΔΟ-ΑΣΤΡΟΛΘΓΟΣ. OR, THE SPURIOUS PROGNOSTICATOR UNMASKED.</p>
+            <p>BEING A ſhort EXAMEN of the manifold Errors and Fallacies, Falſhoods and Flatteries, Publiſhed by Mr. <hi>W. LILLY,</hi> In his <hi>MERLIN</hi> 1659.</p>
+            <p>Wherein his Ignorance in Aſtrology is explained and exploded; His ſcandalous girdings at the King of <hi>Denmark,</hi> Duke of <hi>Brandenburgh,</hi> and the States of <hi>Hol<g ref="char:EOLhyphen"/>land,</hi> Noted; his Nefarious dealing with the late Lord Protector of <hi>England,</hi> and the King of <hi>Sweden,</hi> diſcover<g ref="char:EOLhyphen"/>ed; His Impudent, Arrogant and Artleſs Aſſertions, Retorted and Refuted.</p>
+            <p>By <hi>G. J.</hi> a Lover of Art and Honeſty.</p>
+            <p>
+               <hi>Humanum eſt errare: Jacere belluinum: perſeverare diabolicum.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year 1660.</p>
+            <pb facs="tcp:45858:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:45858:2"/>
+            <head>ΨΕΥΔΑΣΤΡΟ'ΓΟΣ. OR, <hi>The Spurious Prognoſticator,</hi> &amp;c.</head>
+            <div type="introduction">
+               <p>MAſter <hi>William Lilly</hi> being a perſon (by the vulgar ſort) be<g ref="char:EOLhyphen"/>lieved to be the moſt famous Aſtrologer that ever yet appeared on the Engliſh Stage: In his <hi>Merlin,</hi> 1656. he witneſſeth the ſame of himſelf, thus<hi>—We</hi> (ſaith he) <hi>have been a ſervant to the unthankful; we have ſhared in honour and diſhonour: Notwithſtanding all which—we have had all along ſince</hi> 1644. <hi>as general and full a Practice in all the known parts of Aſtrology, as ever any man of this Nation.</hi>
+               </p>
+               <p>I ſhall not Comment upon this his Notorious Boaſt, nor Que<g ref="char:EOLhyphen"/>ſtion whether his deſerts have been as worthy, as his Practice large. Neither ſhall I trouble my ſelf with noting any of his former failings (unleſs Collaterally) which may (I queſtion not, upon a ſtrict examen) equal the hairs of his head for number; though I preſume it would be not an affront, but favour unto A<g ref="char:EOLhyphen"/>ſtrology ſo to do. Yet, Notwithſtanding his great fame and [ſup<g ref="char:EOLhyphen"/>poſed] great skill, I may (I hope) be bold to retort the Errours of his this years <hi>Merlin</hi> upon him, becauſe he hath therein ſo noto<g ref="char:EOLhyphen"/>riouſly deviated from Art, and ſo prodigiouſly eſcandalized the ſame.</p>
+               <q>
+                  <l>If that Great Artiſts for to Sin be bold,</l>
+                  <l>I ſee no reaſon but they ſhould be told.</l>
+               </q>
+               <p>Now that I may proceed Methodically, I ſhall conſider, (1.) This (ſuppoſed) Great Artiſt's Epiſtle. (2.) His General Judgements. (3.) His Monethly Fictions.</p>
+            </div>
+            <div n="1" type="section">
+               <p>
+                  <hi>Sect.</hi> 1. I ſhall be<g ref="char:EOLhyphen"/>gin with his Epiſtle. And would gladly be informed by what Au<g ref="char:EOLhyphen"/>thority, Aſtrological, or otherwiſe, he is ſo bold, as to Queſtion or beſpatter the Duke of <hi>Brandenburgh</hi>'s Title? (2.) Out of what Record (ſetting aſide Mother <hi>Shipton,</hi> and ſuch like Authori<g ref="char:EOLhyphen"/>ties,
+<pb n="2" facs="tcp:45858:3"/>
+he can <hi>prove the King of</hi> Swede <hi>not only a Northern Lyon, but a Northern Lyon Rampant?</hi> (3.) What Aſtrological Text favours him to predict<hi>—That</hi> Carolus Guſtavus <hi>the great [if the God of Battels honour him with the Royalty of</hi> Denmark, <hi>and good foot<g ref="char:EOLhyphen"/>ing in Elector</hi> William <hi>his Dominions] ſhall prove a ſure ſanctuary to the Proteſtants?</hi> And why either of the other (if the God of Bat<g ref="char:EOLhyphen"/>tels prove adjuvant to them) ſhall not prove a Sanctuary as ſure, and as great unto the Proteſtants, as <hi>Carolus Gustavus</hi> the great? they all being of one Faith or Religion. (4.) Whether there be a text in Chriſtian Aſtrology to encourage Mr. <hi>L.</hi> to ſay ſo confi<g ref="char:EOLhyphen"/>dently<hi>—It is as true as truth it ſelf—when the League betwixt</hi> England <hi>and</hi> Sweden <hi>is diſſolved, then farewel the proſperity of the Engliſh Nation?</hi> (5.) Whether ſuch Aſtrology (if Mr. <hi>L.</hi> will have it ſo baptiz'd) be not more likely to ſow the ſeeds of diviſi<g ref="char:EOLhyphen"/>on among Princes and Nations, and ſet them ſooner and ſurer to<g ref="char:EOLhyphen"/>gether by the ears, then any way uphold the honour of that Art Mr. <hi>L.</hi> pretends to be ſo great a Proficient in?</p>
+               <p>Had ſuch Errours and Ignorances (for ſuch they muſt be, ſince the Art they are father'd on diſclaims them) been Publiſh'd by ſome Novice in Art, that had not been much known in the world, they had done the leſs miſchief. But for one that looks upon him<g ref="char:EOLhyphen"/>ſelf as a fam'd Artiſt, and is commonly (though how much undeſer<g ref="char:EOLhyphen"/>vedly, you plainly ſee) believed to be ſo; Nay, one that writes himſelf (though as fondly as falſly,)<hi>—Chriſtianæ Astrologiæ pro<g ref="char:EOLhyphen"/>pagator fidiſſimus!</hi> for ſuch a one, to be guilty of ſuch groſs jug<g ref="char:EOLhyphen"/>ling, and moſt apparent flatteries, it doth not onely intolerably blemiſh the Art, but prejudices many honeſt Profeſſors thereof,—as Mr. <hi>Booker, Wharton, Wing, Tanner, &amp;c.</hi> who when they but hear thoſe pitiful ſtories of their (pretended) foreman mentioned, it cannot but ſtrike them into the thoughts of a juſt indignation a<g ref="char:EOLhyphen"/>gainſt him.</p>
+               <q>
+                  <lg>
+                     <l>
+                        <hi>Omne Animi vitium tanto conſpectius in ſe</hi>
+                     </l>
+                     <l>
+                        <hi>Crimen habet, quanto major qui peccat habetur.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>The Eminenter he that doth amiſs,</l>
+                     <l>So much his ſin, the more notorious is.</l>
+                  </lg>
+               </q>
+               <p>But <hi>cui fini?</hi> to what end do I turn Queſtioniſt to Mr. <hi>L.</hi> when all that know him, know it is not his guiſe to ſatisfie any? Let
+<pb n="3" facs="tcp:45858:3"/>
+their demands be what they will, he is not concerned, though his reputation lye at the ſtake never ſo much<hi>—Tell not me</hi> (ſaith he) <hi>of every Dogs barking at me; I have a ſalve to cure all again.</hi> Let Mr. <hi>L.</hi> go on, and tell the world that he hath begun a new manner of Aſtrology amongſt us, and that he walks in thoſe un<g ref="char:EOLhyphen"/>couth ways that no former Author found; And crack with lying <hi>Lucretius</hi> at large, <hi>viz.</hi>
+               </p>
+               <q>
+                  <lg>
+                     <l>
+                        <hi>A via Signorum peragro loca nullius ante</hi> 
+                        <note place="margin">See his <hi>Mer<g ref="char:EOLhyphen"/>lins,</hi> 1648. 1649. 1650. 1651.</note>
+                     </l>
+                     <l>
+                        <hi>Trita Solo;—</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>In th' midd'ſt of Heavens Signs, I trace a way,</l>
+                     <l>That no man found before me to this day.</l>
+                  </lg>
+               </q>
+               <p>Nay, if he invade the World with a Million more of ſuch like hyperbolical fictions and fooleries, ought he not to be beleeved? When <hi>Delphos</hi> was in faſhion, were any ſo bold, or fool-hardy as to urge a reaſon from their Oracle? And muſt it not (in Mr. <hi>L</hi>'s thoughts) be unjuſt for any to urge him to a reaſon of what he writes or obtrudes upon the World? In his thoughts, did I ſay? Nay, in his <hi>Merlin,</hi> 1655. he plainly tells his Readers<hi>—That he will from thenceforth give no Aſtrological Reaſons</hi> [when, or where, I pray Sir, did you ever give any?] <hi>he having been too Co<g ref="char:EOLhyphen"/>pious unto an unthankful Generation of men; who might have been e<g ref="char:EOLhyphen"/>verlastingly in their A. B. C. without his aſſiſtance. (—Proprio laus ſordet in ore.)</hi> Certainly ſuch boaſts could not but much per<g ref="char:EOLhyphen"/>ſwade with many people, that Mr. <hi>L.</hi> is every whit as able as he proclaims himſelf, did they not ſurely know it to be the property of empty Hogſheads to ſound the loudeſt. I ſee not in reaſon how he can be ſaid to bring others out of their A. B. C. whoſe onely skill is not removed a hairs bredth beyond great F. <hi>viz.</hi> Flatteries. And ſo I paſs from his Epiſtle to his Book.</p>
+            </div>
+            <div n="2" type="section">
+               <p>
+                  <hi>Sect.</hi> 2. In his General Judgements, <hi>pag.</hi> 2. he acquaints us<hi>—That now the effects of the Comet</hi> 1572. <hi>draw neer to a manife<g ref="char:EOLhyphen"/>station upon what Kingdom or Country of</hi> Europe <hi>they will pour down their Influence—The conſideration of which, hath occaſioned him to wander more then he intended concerning the Swediſh King and his Atchievments,</hi> &amp;c.—I ſhall not much Queſtion the ſence of the former part of theſe words, although they ſound very An<g ref="char:EOLhyphen"/>ti-Grammatically, Yet methinks if Comets have effects (which
+<pb n="4" facs="tcp:45858:4"/>
+ſome very learned deny, and Mr. <hi>L.</hi> cannot prove, unleſs we will be contented with his Aſſertives for Probatives,) they ſhould not continue 87. years; but like thoſe of Eclipſes or great Conjun<g ref="char:EOLhyphen"/>ctions, only remain until another of the ſame kind come, and put a period unto its threatned Effects.</p>
+               <p>According to which Doctrine, this Comet (which hath cauſed Mr. <hi>L.</hi> to wander ſo much from the Art he pretends to) ſhould have ended its Effects in 1618. for then there appeared another. But to make ſence of Mr. <hi>L</hi>'s words, he took not the Comet, but K. of <hi>Sweden, &amp;c.</hi> to be the cauſe of his wandring. And then the Antecedent to the Relative [wandring] ſtands in the place of the Conſequent; and ſo he becomes (nevertheleſs) Guilty, of an Irrhetorical <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. but it matters not much for ſence, Art, or Scholarſhip; ſo we find but feignings and flatteries good ſtore in Mr. <hi>L.</hi> his learned works, we have what we can thence ratio<g ref="char:EOLhyphen"/>nally expect.</p>
+               <p>But he goes on and predicts further<hi>—That the work deſign<g ref="char:EOLhyphen"/>ed by that Comet, he finds is great, and ſuch, that neither one man or age, ſhall ſcarcely afford matter plentiful to begin its operation.—A ſecond</hi> John Baptiſt <hi>is required.</hi> He findes the work, <hi>&amp;c.</hi> is great. He can find any thing to be ſmall or great at his pleaſure; he can make a Mountain of a Molehil, and a Molehil of a Moun<g ref="char:EOLhyphen"/>tain again; he can Magnifie, and diminiſh, without the aſſiſtance of the Optiques, <hi>ad libitum;</hi> ſo excellent a workman is learned Mr. <hi>Lilly!</hi> But doth Mr. <hi>L.</hi> hope to gain Credit among Ingeni<g ref="char:EOLhyphen"/>ous men for ſuch Aſtrology as this? A Comet (by his own con<g ref="char:EOLhyphen"/>feſſion) that ſtir'd up the K. of <hi>Swede</hi> againſt the <hi>Dane, &amp;c.</hi> And yet now he finds (after a ſecond ſtaring, it ſeems,) <hi>that neither a Man or Age, ſhall afford plentiful matter to begin its operation! Riſum teneatis amici?</hi> Nay, doth not Mr. <hi>L.</hi> like a ſullen Cow kick down (with his diſdainful heel) all the good Meal of Milk, that before he produced for the K. of <hi>Swede?</hi> I hope Mr. <hi>L.</hi> when he complains of a paucity of plentiful Matter, doth not mean, but that the K. of <hi>Swede</hi> had reaſon in abundance to Invade the <hi>Po<g ref="char:EOLhyphen"/>lander</hi> and <hi>Dane!</hi> And being ſtir'd up againſt them by the influ<g ref="char:EOLhyphen"/>ence of this Comet twatled of, I ſee no reaſon Mr. <hi>L.</hi> hath to complain for want of plentiful matter to begin its operations. And if they be already begun, I would demand of Mr. <hi>L.</hi> what need we have of a ſecond <hi>John Baptiſt</hi> to expound the Riddle? <hi>I have heard a ſtory of a Souldier with a wooden-leg? who being ſup<g ref="char:EOLhyphen"/>poſed</hi>
+                  <pb n="5" facs="tcp:45858:4"/>
+                  <hi>to have a good one ſhot off, his friends ſeeing him fall, called out pre<g ref="char:EOLhyphen"/>ſently for a Chyrurgeon. Oh! quoth the Souldier (being better ac<g ref="char:EOLhyphen"/>quainted with his want) 'tis no matter for a Chyrurgeon, a Carpenter may ſerve the turn.</hi> All the uſe that I ſhall make of it here, is this,—that to expound thoſe forged effects of Comets, and their tedious duration, requires not a ſecond <hi>John Baptiſt,—A</hi> Lilly <hi>or Mother</hi> Shipton <hi>may do it.</hi> And ſo I proceed to his next contradiction.<hi>—We cannot or dare we (ſtill you ſee,</hi> he hath Pigs in his belly) <hi>poſitively determine this preſent Magnanimous K. of</hi> Sweden, <hi>to be that very Perſon, or that ſo great Northern Lyon, who ſhall do ſuch wonders as have been of old Propheſied.</hi> And why not Sir? as well, as to maintain him to be, A Northern Lyon Rampant? But Mr. <hi>L.</hi> ſince the relieving <hi>Copenhagen</hi> hath chan<g ref="char:EOLhyphen"/>ged his Opinion; for in his <hi>Merlin,</hi> 1657. he poſitively affirmed <hi>this K. of Sweden was the man Propheſied of, by</hi> (thoſe Divinely illu<g ref="char:EOLhyphen"/>minated Cheatees,) <hi>the Sybils.</hi> Yet here he dareth not do it. Thus you ſee Mr. <hi>L.</hi> may affirm, and not affirm, or dare ſo to do, <hi>&amp;c.</hi> he may indeed do any thing, by Priviledge. But yet it is a very raw and ſilly conceit of Mr. <hi>L.</hi> to think to write ſuch notorious contradictions, and not to be noted and eſteemed for them, as he deſerves. Shall we believe him to be an Artiſt, that changes his humor juſt as the Times turn? or ſhall we not rather take him for an Arch-Temporizer? and one that makes uſe of an Art to cover and cloke his ignorance and flatteries? Had Mr. <hi>L.</hi> believed his Art to be indubitably real, we ſhould have found him certain ſomewhere; but he poor man! Lyſps and Jabbers, Shuffles and Cuts, after ſo ridiculous a manner, as if he were as little acquain<g ref="char:EOLhyphen"/>ted with Art as honeſty.</p>
+               <p>But it is not againſt Reaſon (ſure) for a man to demand of Mr. <hi>L.</hi> his reaſon for not poſitively affirming here, the ſame thing, that (with as great confidence as ignorance) he did two years ſince. Doth the <hi>M. C. ad</hi> 
+                  <g ref="char:punc">▪</g> ♄ in the K. of <hi>Swede's</hi> Nativity deter him? Or hath he all the reward he expects? If the firſt, 'tis but finding a tranſit (in his Aſtrology) to rancounter that, as in 1658. he did, in theſe words<hi>—Live moſt valiant Swediſh King, thy Gene<g ref="char:EOLhyphen"/>rals,</hi> &amp;c. <hi>and be as ſucceſsful as</hi> Anglicus <hi>deſires; And then you are promiſed two ſeveral Victories neer this Moneth.—</hi>Non obſtante Medium (Medio, <hi>it ſhould rather have been, but that his Aſtrology and Latin are both of a ſtamp)</hi> Cœli ad Corpus Satur<g ref="char:EOLhyphen"/>ni, &amp;c. If the later, cannot you ſend to him for the other Gold
+<pb n="6" facs="tcp:45858:5"/>
+Chain, and acquaint his Majeſty,<hi>—That it is beneath the dig<g ref="char:EOLhyphen"/>nity of your high-fam'd Pen, to ſpend its precious Ink</hi> Sine pretio, <hi>or for a mean reward; and one Gold Chain is too little for a Perſon of your fame to be guilty of ſo great Impoſturiſm, as to forfeit (as much as in you lies) the honour and future glory of ſo ſplendid an Art, that you by profeſſion pretend unto?</hi>
+               </p>
+               <p>Well, to paſs this,—Let us trace Mr. <hi>L.</hi> a little further, and we ſhall find,—Though he dare not poſitively affirm this K. of <hi>Sweden</hi> to be the man or Conquerour, <hi>&amp;c.</hi> yet, that his own Motto<hi>—Sero ſapit ingratus,</hi> may not bite too hard upon his repu<g ref="char:EOLhyphen"/>tation, and he be noted to do nothing for ſo worthy a preſent, as the Gold Chain he received; In his confident ignorant Dialect, he runs on,<hi>—Thus much we affirmatively ſay—That the preſent</hi> Carolus Guſtavus <hi>ſhall prepare much matter towards the advance<g ref="char:EOLhyphen"/>ment of his Succeſſors, for ſo great Atchievments in all parts of</hi> Eu<g ref="char:EOLhyphen"/>rope, <hi>And that the name of this Conquerour ſhall be,</hi> Charls, <hi>and of the Swediſh Nation, and off-ſpring of this</hi> Carolus Guſtavus, &amp;c.</p>
+               <q>
+                  <lg>
+                     <l>Mira canunt, ſed non credenda Poetæ.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Things wonderful to ſing is</hi> Lilly<hi>'s Guiſe;</hi>
+                     </l>
+                     <l>
+                        <hi>But Credit none of them, if you be wiſe.</hi>
+                     </l>
+                  </lg>
+               </q>
+               <p>In his <hi>Merlin</hi> 1657. <hi>he affirmed</hi> Carolus Guſtavus <hi>now Reign<g ref="char:EOLhyphen"/>ing, to be the Northern Lyon or Conquerour,</hi> &amp;c. And yet here he affirms, <hi>That not this, but another of his race, ſhall be the man.</hi> Let him but reconcile theſe diſlocated Predictions, and I ſhall believe him able alſo, to make good this Poſition.</p>
+               <q>
+                  <lg>
+                     <l>
+                        <hi>Nilintrà est oleam; nihil extrà est in nuce duri.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>Within the Olive ['tis beyond all doubt,]</l>
+                     <l>There's nothing hard, Nor of the Nut without.</l>
+                  </lg>
+               </q>
+               <p>The moſt Chimerical Fanſie or Fiction in the World, is every whit worthy as much Credit, as ſo notorious and broad-fac'd a Contradiction. If Mr. <hi>L.</hi> from his great Patroneſſes the <hi>Sybils,</hi> in 1657. ſpake truth,—Then this preſent <hi>Charls,</hi> and not ano<g ref="char:EOLhyphen"/>ther, muſt be the man. If Mr. <hi>L.</hi> ſpeak truth now, then the <hi>Sy<g ref="char:EOLhyphen"/>bils</hi> and he were beſides the truth in 1657. And is not this moſt
+<pb n="7" facs="tcp:45858:5"/>
+excellent Chriſtian Aſtrology! <hi>The K. of</hi> Swede, <hi>ſhall be, and yet he ſhall not be the Conquerour!</hi>
+               </p>
+               <q>
+                  <lg>
+                     <l>Dic quibus in terris, &amp; eris mihi magnus Apollo.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Great Sir! but tell me, how both may be true,</hi>
+                     </l>
+                     <l>
+                        <hi>And take</hi> Apollo's <hi>Bayes to be your due.</hi>
+                     </l>
+                  </lg>
+               </q>
+               <p>When Mr. <hi>L.</hi> can make the two Members of a contradiction accord, he may (I ſuppoſe) make good theſe his wild and extrava<g ref="char:EOLhyphen"/>gant Aſſertions. Howbeit Mr. <hi>L.</hi> deems it but Reaſonable, that he be believed in what he ſays, let it be never ſo contrary to truth, or contradictious in it ſelf; he being (as he ſuppoſes) <hi>Princeps Aſtrologorum.</hi> And what is he that ſhall dare to do the contrary? however, I ſhall run the hazard of Mr. <hi>L</hi>'s Cenſure in this kind for once; <hi>and demand by what Authority Sybillical, Ca<g ref="char:EOLhyphen"/>balistcal or other, he is warranted to deſign the name of this great Conquerour to be</hi> Charls, <hi>&amp;c.</hi>
+               </p>
+               <q>
+                  <l>
+                     <hi>The Stars name none, and ſurely Mr.</hi> Lilly,</l>
+                  <l>
+                     <hi>In ſaying they do, proclaims himſelf moſt Silly.</hi>
+                  </l>
+               </q>
+               <p>The Names of Perſons are ſuch contingent things, that it were (conſidering their dependence upon the humors of conceited Goſſips, whoſe wills and fanſies are the ſole and alone diſpoſers thereof) a reaſonleſs thing to force Aſtrology to father them. But I the leſs wonder at his refuſing to render Reaſons of what he Annually obtrudes upon the underſtandings of men; becauſe he cannot but be ſenſible that his <hi>Merlins</hi> or Almanacks, are one<g ref="char:EOLhyphen"/>ly as Shops or Warehouſes furniſhed with the worſer ſort of Drugs, and Rif-raff; himſelf ſtanding in the midſt of them, juſt as <hi>Horace</hi> deſcribes his Petty-Chapman.</p>
+               <q>
+                  <lg>
+                     <l>Vilia vendentem tunicato Serula popello.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Active in ſelling, to the vulgar man,</hi>
+                     </l>
+                     <l>
+                        <hi>His traſh [for truth,] at ſmall Price (if he can.)</hi>
+                     </l>
+                  </lg>
+               </q>
+               <p>The learned I am out of doubt know Mr. <hi>L</hi>'s ſhifts, and pityful effeminate evaſions; the Ignorant in time may diſcover them.</p>
+               <p>
+                  <pb n="8" facs="tcp:45858:6"/>
+In <hi>pag.</hi> 8. Mr. <hi>L.</hi> tells us,<hi>—This vernal Figure of Hea<g ref="char:EOLhyphen"/>ven promiſeth the Lord Protector of</hi> England <hi>very fair, from his Allies beyond Sea.</hi> But how dares Mr. <hi>L.</hi> (unleſs he dare do any thing) raiſe a judgement either upon the Lord P. or any elſe, from a Scheme ſo notoriouſly untrue? Nothing leſs then 41<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. of time diſtant from the truth; as is demonſtrated by Mr. <hi>Wing</hi> in his <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> for the ſame year; with whom agree moſt others. And is it not a pretty Riddle, that Mr. <hi>L.</hi> which fails thus in the ordinary Principles of the Art <hi>[viz.</hi> 41 min. of time in ſuch a Figure wherein an Artiſt cannot be too preciſe] ſhould be accounted the onely Father and Reſtorer of Aſtrology? But the <hi>Aenigma</hi> is explained; did not Mr. <hi>L.</hi> every year Claw the great Ones by the ſhoulders, his cunning would not by many degrees be ſo much in requeſt above the ordinary Almanack-makers, as his skill is below them.</p>
+               <p>But he, at his high-rated confidence goes on, predicting that<hi>—The Princes of the Earth are very fierce one againſt the other; Nothing but War, Deſtruction, Death, utter Ruine of one another, will give them ſatisfaction.</hi> And yet he Pipes out nothing but Ho<g ref="char:EOLhyphen"/>nour, Renown, Conqueſt and Victory, to the L. P. of <hi>England,</hi> and K. of <hi>Sweden;</hi> as if they were quite out of the Number of the Princes of the Earth! And on the contrary, by the Princes of the Earth, he intends onely the Kings of <hi>Denmark,</hi> and <hi>Poland,</hi> &amp;c. <hi>Anglice,</hi> ſuch as engage againſt the greatneſs of <hi>Sweden.</hi> But ſure<g ref="char:EOLhyphen"/>ly had any other Aſtrologer predicted prejudice, or ought elſe at ſo wild a rate, (as Mr. <hi>L.</hi> here doth) concerning Princes; Mr. <hi>L.</hi> would have been the firſt man that ſhould have ſaluted him with,—</p>
+               <q>
+                  <lg>
+                     <l>
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Ah! Flattering Knave! Clad with high Impudence.</hi>
+                     </l>
+                  </lg>
+               </q>
+               <p>But I ſpare Mr. <hi>L.</hi> although his Preſages hang together, <hi>velut æ<g ref="char:EOLhyphen"/>gri ſomnia,—</hi>like ſick mens dreams, and are not by the wi<g ref="char:EOLhyphen"/>ſeſt head to be reconciled.</p>
+               <p>Now Mr. <hi>L.</hi> having ſpent his pains (to as little purpoſe as you have heard) in predicting things to depend on the Figure of the Suns Ingreſs; is come to the Moons Eclipſe in <hi>April.—</hi>And tells us<hi>—That it begins at</hi> 6 h. 22 min. <hi>P. M. and ends at</hi> 9 h. 20m.
+<pb n="9" facs="tcp:45858:6"/>
+                  <hi>whence</hi> (ſaith he) <hi>the duration thereof, is</hi> 3 h. 15 min. But had Mr. <hi>L.</hi> been pleaſed to have proved his operations, he might have found, that from ſuch a beginning and end as he aſſigns, ſuch a duration could not poſſibly Emerge; But on the contrary, 2 h. 58 min. Which groſs Ignorance in ſo ordinary and common a piece of Art, proclaims his whole skill to be but weak and worthleſs, and his Judgement inſipid and unſavory. Thus you ſee, that he who boaſts that all others might have been in their <hi>A. B. C.</hi> with<g ref="char:EOLhyphen"/>out his aſſiſtance, is himſelf ignorant of the firſt Principles of the Science he pretends to. And without doubt had Mr. <hi>L.</hi> but preſented us with the Figure of this Eclipſe, we ſhould have found it as true, as the other but lately noted.</p>
+               <p>But be his Figures right or wrong, Mr. <hi>L</hi> proceeds to judge<g ref="char:EOLhyphen"/>ment (his name I think ſhould properly have been <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) accor<g ref="char:EOLhyphen"/>ding to his preceding Method (and he propounded none at all) and rufflingly acquaints us<hi>—That this Eclipſe will cauſe a great ruffling both of the</hi> Dane <hi>and</hi> Dutch <hi>to regain the</hi> Sound; <hi>but they will ſooner overthrow the great</hi> Mogul, <hi>or Grand Signior, then re<g ref="char:EOLhyphen"/>conquer the</hi> Sound, <hi>out of his poſſeſſion that now hath it in keeping,</hi> viz. Charls Guſtavus <hi>K. of</hi> Sweden, &amp;c. I would gladly demand, how it is poſſible for ſuch particular Actions and Accidents of Princes to be ſpelt, or ſmelt out of Eclipſes of the Moon; ſince the Effects thereof are not by many able Artiſts received for cer<g ref="char:EOLhyphen"/>tain, but remain diſputable? Is it not therefore, Intereſt rather then Art, that cauſeth him thus to write? certain it is, Aſtrologers agree<hi>—An Artiſt may be enabled to Predict much good, or pre<g ref="char:EOLhyphen"/>judice, to happen to Perſons from their Nativities truly known: But they conclude it altogether impoſſible for the beſt of Artiſts to point at the particular Perſons, or Places, by whom, or where, they ſhall re<g ref="char:EOLhyphen"/>ceive the ſame.</hi> And that is the meaning of <hi>Ptol. Cent. Aphor.</hi> 1. How then dares Mr. <hi>L.</hi> (without all Authority or Reaſon) prate in ſo high a ſtrain, that is (queſtionleſs) incompetent to any, ex<g ref="char:EOLhyphen"/>cept God himſelf? But to follow Mr. <hi>L.</hi> a little further; if we ſhall conſider the force of the <hi>M. C. ad</hi> 
+                  <g ref="char:punc">▪</g> ♄. in the K. of <hi>Swedes</hi> Nativity, there was a great deal more Reaſon for Mr. <hi>L.</hi> to have judged, that he ſhould rather loſe the <hi>Sound,</hi> then keep it. And had not Mr. <hi>L.</hi> endeavoured to appear Anti-Aſtrological in his wri<g ref="char:EOLhyphen"/>tings, he could not but know, that that had been (by far) the more Art-like Prediction. Albeit, Mr. <hi>L.</hi> goes on, and ſaith<hi>—For whom Heavens have ordained Rampant and Victorious, In vain it is</hi>
+                  <pb n="10" facs="tcp:45858:7"/>
+                  <hi>for man, or men, to withſtand his riſing. But</hi> (ſaith he) <hi>ſince we may ſeem to ſpeak in clouds, we intend in this diſcourſe onely the Vi<g ref="char:EOLhyphen"/>ctorious Armies of his Majeſty of</hi> Sweden <hi>to be the Perſon ſo powerful,</hi> &amp;c. If Mr. <hi>L.</hi> in all <hi>Farnabee's Rhetorique,</hi> can but find a figure that doth in the leaſt favour ſo ſtrange a paſſage as this be<g ref="char:EOLhyphen"/>fore us, I ſhall acknowledge him better read therein then I am. <hi>He intends only the Victorious Armies of his Majeſty of</hi> Sweden, <hi>to be the Perſon, &amp;c.</hi> May not a man (that is not encompaſſed with Mr. <hi>L</hi>'s Clouds) as reaſonably, and with as good ſence, and pro<g ref="char:EOLhyphen"/>priety of ſpeech, in commendation of Mr. <hi>L.</hi> ſay<hi>—By ſuch a Diſ<g ref="char:EOLhyphen"/>courſe, we onely intend the many unparallel'd Proſelytes of Mr.</hi> L. <hi>to be the Perſon ſo learned in Aſtrology among us?</hi> I appeal to the Judgements of all underſtanding men, whether Mr. <hi>L.</hi> be guilty of more ſence in the paſſage urged before, then this amounts to. If Mr. <hi>L.</hi> ever went to School, he cannot but remember that Boys have been whipp'd for far ſmaller faults. But theſe are onely ſlight daſhes of his <hi>He-Sparrow's quill,</hi> as one of his Antagoniſts, once (in vain) minded him of. But,</p>
+               <q>
+                  <lg>
+                     <l>—Plus fœtent Stercora mota. (i.)</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Dunghils the more you ſtir, the more they ſtink.</hi>
+                     </l>
+                  </lg>
+               </q>
+               <p>Mr. <hi>L.</hi> after long flattering the K. of <hi>Swede,</hi> and ſore threatning the <hi>Dane, Hollander,</hi> &amp;c. if they engage againſt that Victorious Prince whom the Heavens (in his flattering Dialect) have or<g ref="char:EOLhyphen"/>dain'd Rampant, betakes himſelf to a very convenient ſtarting<g ref="char:EOLhyphen"/>hole, If in caſe it ſhould ſo fall out, that the K. of <hi>Swede</hi> do not proſper ſo well, as he Prophecies, <hi>&amp;c.</hi> And (like a good Chriſti<g ref="char:EOLhyphen"/>an Aſtrologer, maintains) <hi>The beſt Army, or longeſt ſword, hath tho beſt Cauſe.</hi> By which it appears, that Mr. <hi>L</hi>'s Religion is as rot<g ref="char:EOLhyphen"/>ten and corrupted, as his Aſtrology and Theurgy unſound.</p>
+               <p>But to follow Mr. <hi>L.</hi> a little further yet.—(though not <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) doth he not inſinuate the <hi>Hollander,</hi> and <hi>Dane,</hi> to have the beſt cauſe, in caſe the God of Battels give them the Victory o<g ref="char:EOLhyphen"/>ver the K. of <hi>Sweden?</hi> Nay, may we not eſtimate Mr. <hi>L</hi>'s Con<g ref="char:EOLhyphen"/>ſcience to be of ſo large a ſize, that if the <hi>Dane</hi> or <hi>Hollander</hi> would but Greaſe him, as the K. of <hi>Swede</hi> hath done, or but a lit<g ref="char:EOLhyphen"/>tle more, Mr. <hi>L.</hi> as the Proverb is, would Claw them again; and <hi>in his next</hi> Merlin <hi>would appear as confident on the ſide of the Mag<g ref="char:EOLhyphen"/>nanimous</hi>
+                  <pb n="11" facs="tcp:45858:7"/>
+                  <hi>K. of</hi> Denmark, <hi>and the High and Mighty States of</hi> Hol<g ref="char:EOLhyphen"/>land, <hi>as now he hath for the Victorious and Rampant K. of</hi> Sweden.</p>
+               <p>But ſurely Mr. <hi>L.</hi> cannot be of ſo unſtable a judgement, nor doth he mean, or inſinuate any ſuch thing, as <hi>that the</hi> Hollander <hi>or</hi> Dane, <hi>can be thought to have the beſt cauſe, although they ſhould fortune to have the longeſt Sword, or beſt Army.</hi> And that you may know him to be of a quite contrary Opinion, to what his now cited words import, he burſts into a flattery of the firſt Magnitude for the <hi>Swede,</hi> to the abſolute ruine of the <hi>Hollander, &amp;c.</hi> in theſe words.<hi>—Beware</hi> Hollanders <hi>of affronting his Majeſty of</hi> Swe<g ref="char:EOLhyphen"/>dens <hi>Navy, or Sea-Forces, or his moſt certain Friend the preſent Engliſh L. P. any of his Navy, or particular Ships: His Majeſty of</hi> Swede, <hi>and our Protector have the moſt maſculine ſpirited Sea<g ref="char:EOLhyphen"/>men of the whole World, and a gracious Guardian Angel (therein is Mr.</hi> Lillies <hi>greateſt skill) for to protect both their perſons and forces,</hi> &amp;c.<hi>—This Eclipſe threatens breach of Peace between</hi> England <hi>and</hi> Holland [how know you that Sir? ♂ and <g ref="char:punc">▪</g> are there<g ref="char:EOLhyphen"/>in in Δ; and can Δs in your Aſtrology produce Breaches?] <hi>and from thence a War, and that ſo great, as the former may be thought a trifle. Our Noble Sea-men are promiſed Victory,</hi> [what, before they have an Enemy to engage againſt?] <hi>for in Waters upon the wa<g ref="char:EOLhyphen"/>ters, upon people who live like Fiſhes, wholly upon the waters, and ſubſiſt by Seas and waters</hi> [Tautology is no ſin with Mr. <hi>L.] will the Influence of this Eclipſe take place; therefore our Swediſh Sea-Forces, ſhall tranſmit thouſands of the</hi> Dutch <hi>Sea-men unto the Fiſhes for their better Nutriment.</hi>
+               </p>
+               <q>
+                  <lg>
+                     <l>Quid dignum tanto feret hic promiſſor hiatu?</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Would you the truth of ſuch great Victory?</hi>
+                     </l>
+                     <l>
+                        <hi>'Tis</hi> Lillie<hi>'s Guiſe to promiſe his Friends high.</hi>
+                     </l>
+                  </lg>
+               </q>
+               <p>I might demand of Mr. <hi>L.</hi> (in relation to this his Notorious <hi>Non-ſequitur,</hi> wherefore he brings his ſtrange <hi>therefore?</hi> And whe<g ref="char:EOLhyphen"/>ther the conſequence would not as roundly have followed, had the premiſes been turned the contrary way? But let Mr. <hi>L.</hi> go on, and chaunt forth (yet further) his Syren Songs of flattery to the K. of <hi>Sweden,</hi> and tell him<hi>—That he ſhall be as great as</hi> Charls <hi>the great,</hi> &amp;c. the <hi>M. C.</hi> to the body of <hi>Saturn,</hi> will prove him to be a perſon that keeps <hi>Mendacium</hi> as a Page to his Pen and Tongue.</p>
+               <p>But notwithſtanding this ſo inſolent threat of his to the poor <hi>Hollander,</hi> If he have but the good hap <hi>to get the longest Sword, and the best Army,</hi> (they are Mr. <hi>L</hi>'s own words) <hi>he hath the beſt</hi>
+                  <pb n="12" facs="tcp:45858:8"/>
+                  <hi>Cauſe; And then</hi> (if Mr. <hi>L.</hi> ſay ſooth) <hi>he may by this Eclipſe be impowered to tranſmit thouſands of the Swedes Sea-men to feed the Fiſhes;</hi> as likely as the Swedes theirs. But I hope both thoſe Nations will be more prudent, then adhere to any ſuch reaſon<g ref="char:EOLhyphen"/>leſs Flatteries and Threats, as Mr. <hi>L</hi>'s Silly Pamphlets are con<g ref="char:EOLhyphen"/>ſtantly ſtuffed with. So I proceed from his Annual Judgements, to his Menſurnal Fopperies.</p>
+            </div>
+            <div n="3" type="section">
+               <p n="january">
+                  <hi>Sest.</hi> 3. In <hi>January</hi> he Propheſies<hi>—That ſome peremptory Spirits divulge frivolous Tenents, and their Crabby opinions, to the diſturbance of the Magiſtrate in ſeveral places.</hi> But there hath as little ſucceſs anſwered this whimſical Preſage, as he had ground in Art to Predict it, the firſt part onely excepted, which he (it may be) foreſaw his own ridiculous ſcribling to make good. He pro<g ref="char:EOLhyphen"/>ceeds, and tattles of <hi>An eminent perſon to ſuffer diſgrace.</hi> Which he may poſſibly interpret to ſome one of the Ladies (for the Sex he mentions not) who were carried to <hi>Bridewell</hi> upon ſuſpition of diſhoneſty about the beginning of <hi>February;</hi> for you muſt know his Predictions emit Rayes.</p>
+               <p n="february">In <hi>February,</hi> he talks <hi>of a Storm to happen to thoſe perſons neer the Sea-ſhore, that are Enemies to the greatneſs of</hi> Sweden. But were there any truth in Monethly Predictions (a work at which Mr. <hi>L.</hi> is old excellent!) how came he to Miſs ſo groſly in this? There was a ſtorm 'tis true, but the heat thereof fell upon the <hi>Swedes; which Mr.</hi> L. <hi>no more foreſaw, then the creeping of the Scotch K. into</hi> England. But that you may know him to be the all-ſufficient Aſtrologer of <hi>England,</hi> he goes on<hi>—Some Plot once more in contrivance, to make diviſion,</hi> &amp;c. But,—
+<q>There was no Plot, ſave that which keeps us poor;</q>
+as Mr. <hi>Wharton</hi> wittily Noted in his <hi>Cal. Eccl.</hi> 1659. <hi>
+                     <g ref="char:V">Ʋ</g>nleſs to that we add Mr.</hi> L<hi>'s deſign to diſgrace Aſtrology.</hi>
+               </p>
+               <p n="march">In <hi>March</hi> Mr. <hi>L.</hi> Cants after his wonted rate, of <hi>Englands Guardian Angel.</hi> In ſuch whimſies he ſhould have the right hand of <hi>Jo. Blagrave;</hi> yet they are confidents of a ſtamp; And God knows, a Guardian Angel may be ſomewhat to Eat, for any knowledge either of them have thereof. But to keep in with the K. of <hi>Swede,</hi> Mr. <hi>L.</hi> tells the World, <hi>That he is, and will be ſole Master of the</hi> Sound. <hi>But</hi> (a little after ſaith he) <hi>we arrive not yet with our pen to the Baltique Sea,</hi> &amp;c. As if the <hi>Sound</hi> were at ſome conſiderable diſtance from the Baltique Sea. I ſee by this, his good Genius doth now and then deceive him. Toward the
+<pb n="13" facs="tcp:45858:8"/>
+Moneths end, he writes<hi>—Some now flatter our Nation.</hi> Which is admirably well verified by his own clawing the late Protector. And is not that a rare Artiſt, that can ſo order his matter, <hi>let things fall out which way they will, his Predictions</hi> (like a Cat) <hi>ſhall still hap<g ref="char:EOLhyphen"/>pen right upon their Legs?</hi>
+               </p>
+               <p n="april">In <hi>April</hi> (as if he were aſhamed of his former clawing humor) he tells us<hi>—That there are ſeveral confederacies made againſt the</hi> Swede. But how ſhould we credit Mr. <hi>L.</hi> in this? who are they that dare Confederate againſt him, whom heavens have ordained Rampant and Victorious? Or what ſucceſs in ſuch undertaking can they hope for? <hi>When they, not onely fight againſt heaven, but muſt grapple alſo with the dire Amulet of a Guardian Angel, and Mr.</hi> L<hi>'s ſowre Predictions.</hi> But he goes on<hi>—A Plague or new Diſeaſe, and Pyracy from the Western parts, diviſion, uncertain Rumors and fears, threaten us.—</hi>And yet (ſaith he) <hi>The Month in general promiſeth fair to City and Country.</hi> I confeſs my ſelf ig<g ref="char:EOLhyphen"/>norant in the Cabal of ſuch a Canting ſtrain. 'Tis juſt like that of the Satyriſts <hi>Tyreſias—Quicquid dicam, aut erit, aut non.</hi> What<g ref="char:EOLhyphen"/>ſoever he ſaith, ſhall either be, or not be.</p>
+               <p n="may">In <hi>May</hi> his Ignorance and ſlattery is ſo obvious, that each boy in the ſtreet is able to lend him a ſquib for it. Hear him a little: <hi>The Engliſh L. P. now enters upon action, and manifests himſelf to the whole World, that he hath great abilities to govern,</hi> &amp;c. And a little after, R. <hi>L. P. ſtoops not, is not terrified with words, provides for all occaſions—is made happy with ſeveral moſt welcome News unto him.</hi> And behold! The very ſame time that he had Calculated this auſpicious Prediction for, the Protector mildly made a re<g ref="char:EOLhyphen"/>ſignation of his Power, Protectorſhip and all! which Mr. <hi>L.</hi> be<g ref="char:EOLhyphen"/>ing twitted with, <hi>in a ſcurrile baſe manner call'd him fool!</hi> But 'tis one of the leaſt of his Inſolencies; for ſo he abuſed the preſent Parliament when turn'd out by the Protector <hi>Oliver;</hi> though to the skyes he had magnified them before. As I may hereafter more largely inform the World of.</p>
+               <p n="june and july">In <hi>June</hi> he ſaith<hi>—Some dangerous deſign is now prepared againſt his Highneſs.</hi> But here he is proved a lying Prophet; for his Highneſs was laid by the laſt month. In <hi>July,</hi> he Temporizes, but not fitly, that<hi>—the wiſdom of our Protector and Council, gives the whole world occaſion to know, that the preſent affairs of</hi> England <hi>are in a good poſture.</hi> But had we had then a Protector, his Prediction never<g ref="char:EOLhyphen"/>theleſs had proved a lie. For at the ſame time, our affairs were like to have been blown up by the Enemies then among us; witneſs the <hi>Cheſhire</hi> Inſurrection. But Mr. <hi>L.</hi> will ſay perhaps that he was to be underſtood by an <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. His Readers ought to be ſo underſtood indeed, when they report him an Aſtrologer.</p>
+               <p n="august">
+                  <pb n="14" facs="tcp:45858:9"/>
+In <hi>Auguſt</hi> he feigns<hi>—That ſome Church-men,</hi> &amp;c. <hi>obtain more then vulgar pre<g ref="char:EOLhyphen"/>ferment</hi> (that they muſt do ſure, if they obtain any at all) yet toward the end he Predicts<hi>—That Fryers and Monks ſuff<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r every where.</hi> Now let them either obtain preferment or ſuffer, you ſee Mr. <hi>L.</hi> hath hit it to a hair; and will ſpeak truth ſtill (in deſpight of the father of Lies) though at a moſt horrible lying rate.</p>
+               <p n="september and october">In <hi>September,</hi> he acquaints the world<hi>—That the death of many Commanders may be feared.</hi> But this Prediction (if Mr. <hi>L.</hi> could have hit ſo right) might better have fitted <hi>February,</hi> at what time ſo many were ſlain at the Storming <hi>Copenhagen.</hi> He goes on<hi>—A ſad doom is preparing and ready to fall upon ſome Northern people; a judgement it is like to be of continuance</hi> ('tis no matter, ſo it never come to execution!) <hi>not eaſily removable; it ſmells of ſervitude and bondage.</hi> Now let the K of <hi>Swede</hi> be routed, or Rout the <hi>Dane, &amp;c.</hi> here's a Preſage to fit the foot of either, and Mr. <hi>L</hi>'s credit ſecure. If Captivity overtake him whom Heaven fights for, 'tis no fault of Mr. <hi>L</hi>'s; for he hath diſcharged the part of a good Aſtrologer in this very Prediction. In <hi>October,</hi> he twattles at the ſame rate. And ſhould it ſo happen that Mr. <hi>L</hi>'s; Lyon Rampant be overcome, he is not the firſt (may Mr. <hi>L</hi> ſay) that hath been ſo: <hi>did not Sampſon ſlay a Lyon?</hi>
+               </p>
+               <p n="november">In <hi>November</hi> Mr. <hi>L.</hi> talks as confidently, as vainly<hi>—The</hi> Swedes <hi>are not re<g ref="char:EOLhyphen"/>tired to their Winter Quarters, having ſome honourable work to perform.</hi> He had done the K. of <hi>Swede</hi> more ſervice (and the Art he profeſſeth more honour,) to have acquainted him, that then the Sun will be Eclipſed in <hi>Scorpio,</hi> neer his Radical place in that K's Nativity. But <hi>Merlinus Verax</hi> hath done that for him.</p>
+               <p n="december">To end his Notorious piece of Flattery—In <hi>December</hi> he concludes Hy<g ref="char:EOLhyphen"/>pothetically<hi>—If</hi> Carolus Guſtave <hi>the Great K. of</hi> Swede, <hi>write himſelf</hi> Rex Danæ, <hi>poſſeſſor of</hi> Copenhagen, <hi>make</hi> W. <hi>of</hi> Brandenburgh <hi>repent in Sackcloth and Aſhes, Kick and Cuff the Hogens of</hi> Holland <hi>out of the Baltique Sea, and Petition his Majeſty</hi> (I ſpare the Non-ſence hereof) <hi>in Quality of diſtreſſed States; Let them hereafter beware of fighting againſt Providence.</hi> Thus ends this Metropolitan Artiſt! and to make an end of following him, <hi>I will only demand of him what reaſon be hath (beſides the Gold Chain) to inſiauate the loſs of the K. of</hi> Denmark's <hi>Crown? did ever any man that had any thing of Art in him, before, conclude it poſſi<g ref="char:EOLhyphen"/>ble for that K to looſe his Kingdom, that had the Sun in</hi> Aries <hi>in the mid-heaven, in Trine to the Aſcendent of which he is Lord?</hi> Let Mr. <hi>L</hi> produce but one Aſtrolo<g ref="char:EOLhyphen"/>gical reaſon or experiment, and<hi>—Erit mihi Magnus Apollo.</hi> Nay, he ſhall be (by me) honoured as the ſecond <hi>John Baptiſt,</hi> which he ſaith is required. But if he cannot, Let him bluſh at his ill-tempered confidence, for broaching ſuch broad-fac'd Barbariſms for Art. By which Penitency, he may obtain a better Opinion of all thoſe, whoſe underſtandings he hath for many years together moſt groſly deluded.</p>
+            </div>
+            <div type="postscript">
+               <head>POSTSCRIPT.</head>
+               <p>
+                  <hi>IF Mr.</hi> L. <hi>this next year, write his recantation-Almanack, Let him for his Credit's ſake acquit himſelf (if ſo be he be able) of the ſeveral Errours and Ignorances charged upon him in this Diſcourſe: If he refuſe this advice, and publiſh another Meſs of Flatteries, Falſities, and Non-ſence, in the form of an Almanack; he will then only put me to the trouble of another Examen; and ſuffer his Reputation to run into the Quickſands of a far greater hazard and Danger.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="note">
+            <p>Hereunto is annexed, <hi>The NATIVITY of the King of</hi> SWEDEN.</p>
+            <pb facs="tcp:45858:9"/>
+         </div>
+      </back>
+   </text>
+</TEI>
